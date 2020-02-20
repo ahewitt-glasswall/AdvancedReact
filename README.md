@@ -1,6 +1,6 @@
 # AdvancedReact
  
-## Dependencies
+## Prerequisites
 ### Node.js
 v12.14.1^
 
