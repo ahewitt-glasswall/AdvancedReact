@@ -8,5 +8,5 @@ v12.14.1^
  npm install nodemon
 
 #### Yarn
- npm istall yarn
+ npm install yarn
 
