@@ -1,12 +1,12 @@
 # AdvancedReact
  
-## Prerequisites
-### Node.js
+### Prerequisites
+#### Node.js
 v12.14.1^
 
-### Nodemon
+#### Nodemon
  npm install nodemon
 
-### Yarn
+#### Yarn
  npm istall yarn
 
