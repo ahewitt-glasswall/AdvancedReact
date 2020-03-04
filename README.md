@@ -1,6 +1,6 @@
 # AdvancedReact
 
-Following this Pluralsight Course: https://app.pluralsight.com/library/courses/reactjs-advanced/discussion
+Following this Pluralsight Course: https://app.pluralsight.com/library/courses/reactjs-advanced/
  
 ### Prerequisites
 #### Node.js
