@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleList renders correctly 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "borderBottom": "2px solid",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "2rem",
+        "maxWidth": "50%",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "fontSize": "25px",
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "color": "grey",
+          "textAlign": "center",
+        }
+      }
+    >
+      Invalid Date
+    </div>
+    <div
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      <a
+        href={undefined}
+      >
+         
+      </a>
+    </div>
+    <div
+      style={
+        Object {
+          "margin": "20px 0",
+        }
+      }
+    />
+  </div>
+  <div
+    style={
+      Object {
+        "borderBottom": "2px solid",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "2rem",
+        "maxWidth": "50%",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "fontSize": "25px",
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "color": "grey",
+          "textAlign": "center",
+        }
+      }
+    >
+      Invalid Date
+    </div>
+    <div
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      <a
+        href={undefined}
+      >
+         
+      </a>
+    </div>
+    <div
+      style={
+        Object {
+          "margin": "20px 0",
+        }
+      }
+    />
+  </div>
+</div>
+`;
