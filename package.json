@@ -45,7 +45,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lodash.debounce": "^4.0.8",
     "lodash.pickby": "^4.6.0",
     "prop-types": "^15.7.2",
